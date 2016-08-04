@@ -1,0 +1,28 @@
+_repo: Otto-of-the-Silver-Hand_2865
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Pyle, Howard
+    birthdate: 1853
+    deathdate: 1911
+    gutenberg_agent_id: '491'
+    url: http://www.gutenberg.org/2009/agents/491
+    wikipedia: http://en.wikipedia.org/wiki/Howard_Pyle
+description: ''
+gutenberg_bookshelf: Fantasy
+gutenberg_issued: '2001-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2865'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Chivalry -- Fiction'
+- !lcsh 'Germany -- Fiction'
+- !lcc 'PZ'
+- !lcsh 'Middle Ages -- Fiction'
+- GITenberg
+title: Otto of the Silver Hand
+url: http://www.gutenberg.org/ebooks/2865
